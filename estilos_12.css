@@ -118,7 +118,7 @@ nav #publicar_nav
 nav #publicar_nav:after
 {
 	color: rgba(255,255,255,0.5);
-	content:  "\e003";
+	content:  "\e004";
 	font-family: "icomoon";
 	font-size: 1.8em;
 	position: absolute;
@@ -169,7 +169,7 @@ nav #publicar_nav a
 #contenido .item .datos_item .guardar_item:after
 {
 	color: #FD5;
-	content: "\e004";
+	content: "\e003";
 	font-family: "icomoon";
 }
 #contenido .item .datos_item .tag_item
